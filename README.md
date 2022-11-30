@@ -1,6 +1,8 @@
 # 👷‍♀️ Pipex
 
 <div align=center>
+
+  ![badge](https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/pipexe.png)
   
   [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 </div>
@@ -79,5 +81,5 @@ cmd << LIMITER | cmd1 >> file
 
 ## Tasks
 
-- :white_large_square: Mandatory part
-- :white_large_square: Bonus part
+- :white_large_square: Mandatory part (ongoing)
+- :white_large_square: Bonus part (ongoing)
